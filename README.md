@@ -59,6 +59,15 @@ This project is an interactive Excel dashboard designed to analyze bike purchase
 - **Regional Differences:** North America shows the highest average income among bike buyers.
 
 ---
+## Skills
+
+- **Data Cleaning** (removing duplicates, standardizing values)
+- **Data Transformation** (creating age groups, formatting columns)
+- **Pivot Tables & Pivot Charts**
+- **Data Visualization** (bar charts, line charts, pie charts)
+- **Dashboard Design** (layout, color coordination, interactivity)
+- **Slicers & Interactive Filtering**
+- **Analytical Thinking** (deriving insights from data)
 
 ## Screenshot
 
