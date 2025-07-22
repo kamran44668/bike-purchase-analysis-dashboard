@@ -75,9 +75,8 @@ This project is an interactive Excel dashboard designed to analyze bike purchase
 
 ---
 
-## License
+## 🗒️ Notes
 
-This project is for educational and analytical purposes.  
-Feel free to use or modify for your own learning or portfolio.
+This is my first project as a data analyst. More projects will be added soon !
 
 ---
