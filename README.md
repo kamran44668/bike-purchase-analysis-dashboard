@@ -1,69 +1,74 @@
-# 🚲 Bike Purchase Analysis Dashboard
+# Bike Purchase Analysis Dashboard
 
-This project presents an interactive **Excel dashboard** that analyzes bike purchasing behavior based on various demographic and regional factors. It uses pivot tables, charts, and slicers to visualize key insights from customer data.
-
----
-
-## 📊 Dashboard Overview
-
-The dashboard includes visualizations for:
-
-- **Average Income by Gender & Purchase Status**
-- **Bike Purchase Frequency vs. Commute Distance**
-- **Purchase Trends by Age Group**
-- **Occupation Distribution of Bike Buyers**
-- **Average Income by Region & Purchase Status**
-- **Bike Purchase Rate (Overall)**
-
-Interactive **slicers** allow filtering the data by:
-- Gender
-- Age Group
-- Region
-- Purchase Status
-
----
-
-## 🔍 Key Insights
-
-- **Males** who purchased bikes tend to have **higher average income** than those who didn't.
-- People commuting **less than 1 mile** are more likely to purchase bikes.
-- **Adults** show the highest rate of bike purchases compared to other age groups.
-- **Professional occupations** make up the largest percentage of bike buyers.
-- The **bike purchase rate** across all users is **48%**.
+This project is an interactive Excel dashboard designed to analyze bike purchase trends using demographic and socioeconomic data. The dashboard provides valuable insights into how factors such as gender, age, region, occupation, income, and commute distance influence bike purchasing behavior.
 
 ---
 
 ## 📂 Files Included
 
-| File Name | Description |
-|-----------|-------------|
-| `bike_purchase_dashboard.xlsx` | The interactive Excel dashboard |
-| `bike_buyers_data.csv` | (Optional) Source data used to build the dashboard |
-| `README.md` | Project documentation |
+| File Name                     | Description                                 |
+|-------------------------------|---------------------------------------------|
+| `bike_purchase_dashboard.xlsx` | The interactive Excel dashboard             |
+| `bike_purchase_dataset.xlsx`   | Source data used to build the dashboard     |
+| `README.md`                   | Project documentation                       |
 
 ---
 
-## 🛠 Tools Used
+## Features
 
-- **Microsoft Excel**
-  - Pivot Tables
-  - Pivot Charts
-  - Slicers
-  - Conditional Formatting
+- **Average Annual Income by Gender and Bike Purchase Status:**  
+  Compare average incomes of males and females based on whether they purchased a bike.
+
+- **Bike Purchase Frequency by Commute Distance:**  
+  Visualize how commute distance affects the likelihood of purchasing a bike.
+
+- **Bike Purchase Trend by Age Group:**  
+  Analyze bike purchase trends across different age groups (Adult, Old, Youth).
+
+- **Occupation Distribution of Bike Buyers:**  
+  Pie chart showing the distribution of bike buyers by occupation.
+
+- **Average Income by Region and Purchase Status:**  
+  Compare average income across regions (Europe, North America, Pacific) and purchase status.
+
+- **Interactive Filters (Slicers):**  
+  - Gender  
+  - Age Group  
+  - Region  
+  - Bike Purchased Status
+
+- **Key Metric:**  
+  - **Bike Purchase Rate:** Displays the overall percentage of people who purchased bikes (48%).
 
 ---
 
-## 💡 Future Improvements
+## How to Use
 
-- Rebuild dashboard using **Power BI** for web publishing
-- Use **Python (Pandas + Seaborn/Plotly)** to replicate analysis and visualizations
-- Perform deeper statistical analysis on purchasing patterns
-
----
-
-## 📬 Contact
-
-For questions or feedback, feel free to reach out via GitHub Issues or [your email/contact info].
+1. **Open the Excel file** containing the dashboard.
+2. **Use the slicers** on the right to filter the dashboard by gender, age group, region, and purchase status.
+3. **Explore the charts** to identify patterns and insights related to bike purchases.
 
 ---
 
+## Key Insights
+
+- **Income Impact:** Higher income groups, especially males, are more likely to purchase bikes.
+- **Commute Distance:** Shorter commute distances see higher bike purchase frequencies.
+- **Age Group:** Adults are the most frequent bike buyers.
+- **Occupation:** Professional and skilled manual workers form the largest segments of bike buyers.
+- **Regional Differences:** North America shows the highest average income among bike buyers.
+
+---
+
+## Screenshot
+
+![Bike Purchase Analysis Dashboard](./dashboard_screenshot.png)
+
+---
+
+## License
+
+This project is for educational and analytical purposes.  
+Feel free to use or modify for your own learning or portfolio.
+
+---
